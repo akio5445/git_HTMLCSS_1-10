@@ -79,4 +79,8 @@ main{
   .step-img1 ,.step-img1 , .step-img3{
     background-position:center;
     }
+  main .step2{
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
 }
